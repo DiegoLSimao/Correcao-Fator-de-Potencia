@@ -1,4 +1,4 @@
-# Correcao-Fator-de-Potencia
+# Correção do fator de potência.
 Projeto em PIC para Correção do fator de potencia.
 PIC 18f4550 
 MPLAB X IDE:		v2.25 
