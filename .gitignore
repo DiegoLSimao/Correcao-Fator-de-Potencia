@@ -1,0 +1,17 @@
+
+
+# compilador xc 8 pic
+
+. generate_files 
+build 
+debug 
+dist 
+motorbench 
+nbproject / Makefile -* 
+nbproject / Package -* 
+nbproject / private
+
+
+*workspace
+*log
+
