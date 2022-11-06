@@ -1,5 +1,9 @@
 # Correção do fator de potência.
 Projeto em PIC para Correção do fator de potencia.
-PIC 18f4550 
-MPLAB X IDE:		v2.25 
-Compilador:     XC8 v1.32
+***
+Microcontrolador: PIC 18F4550.
+
+IDE: MPLAB versão 2.25
+
+Compilador: XC8 v1.32
+
